@@ -1,0 +1,21 @@
+{
+  "name": "keyevent",
+  "version": "1.0.0",
+  "homepage": "https://github.com/cybertoothca/keyevent",
+  "authors": [
+    "Dan Nelson <dnelson@cybertooth.ca>"
+  ],
+  "description": "The KeyEvent object gives us all the constants for key codes (should these not already exist somewhere?!?).",
+  "main": "src/keyevent.js",
+  "keywords": [
+    "keyevent"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
