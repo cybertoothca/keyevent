@@ -1,4 +1,3 @@
-// TODO: this should be in bower
 /**
  * The KeyEvent object gives us all the constants for key codes (should it not exist in the browser).
  * See http://stackoverflow.com/a/1465409/545137
@@ -6,7 +5,7 @@
  * @since 1.0.0
  */
 
-if (typeof KeyEvent == "undefined") {
+if (typeof KeyEvent == 'undefined') {
 	var KeyEvent = {
 		DOM_VK_CANCEL: 3,
 		DOM_VK_HELP: 6,
