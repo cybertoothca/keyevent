@@ -1,7 +1,7 @@
 # KeyEvent
 
 Simply put, a cross-browser compatible set of constants for all of the different key codes that 
-handled in HTML {{keypress}}, {{keydown}}, and {{keyup}} events.
+handled in HTML `keypress`, `keydown`, and `keyup` events.
 
 ## Prerequisites
 
@@ -9,7 +9,7 @@ None.
 
 ## Installation
 
-Include the {{keyevent.js}} in your HTML page or project.
+Include the `keyevent.js` in your HTML page or project.
 
     <html>
       <head>...</head>
