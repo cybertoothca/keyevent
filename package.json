@@ -1,0 +1,33 @@
+{
+  "name": "keyevent",
+  "version": "1.0.0",
+  "description": "The KeyEvent object gives us all the constants for key codes (should these not already exist somewhere?!?).",
+  "main": "src/keyevent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cybertoothca/keyevent.git"
+  },
+  "keywords": [
+    "keyevent"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "cybertooth.io",
+    "email": "dev@cybertooth.io",
+    "url": "http://cybertooth.io"
+  },
+  "contributors": [
+    {
+      "name": "Dan Nelson",
+      "email": "dan@cybertooth.io",
+      "url": "https://nadnoslen.github.io/"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/cybertoothca/keyevent/issues"
+  },
+  "homepage": "https://github.com/cybertoothca/keyevent#readme"
+}
