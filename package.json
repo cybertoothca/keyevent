@@ -1,6 +1,6 @@
 {
   "name": "keyevent",
-  "version": "1.0.0",
+  "version": "1.1.0-rc.1",
   "description": "The KeyEvent object gives us all the constants for key codes (should these not already exist somewhere?!?).",
   "main": "src/keyevent.js",
   "scripts": {
